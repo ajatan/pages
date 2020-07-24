@@ -1,0 +1,2 @@
+# pages
+simple memo
